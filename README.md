@@ -1,5 +1,15 @@
 # GURA: GRU Unit for Recognizing Affect
 
+> [!IMPORTANT]
+> **GURA is retired.** It has been replaced by
+> [sentiment-bundle-benchmark](https://github.com/NatLee/sentiment-bundle-benchmark), which compares
+> today's approaches (TF-IDF, sentence embeddings, fine-tuned ModernBERT and DeBERTa-v3, a local LLM) on
+> the same datasets with fixed splits and seeds, and explains what was wrong with the numbers below.
+> The dataset links still work:
+> [MyAnimeList Comment Dataset on Kaggle](https://www.kaggle.com/datasets/natlee/myanimelist-comment-dataset) and
+> [sentiment-classification-dataset-bundle on Hugging Face](https://huggingface.co/datasets/NatLee/sentiment-classification-dataset-bundle).
+> This repository stays online, read-only, for reference.
+
 ![](./doc/model.png)
 
 GURA, short for GRU Unit for Recognizing Affect, is a simply sentiment classification model that leverages the power of `Bidirectional GRU` and `Self-attention` mechanisms.
