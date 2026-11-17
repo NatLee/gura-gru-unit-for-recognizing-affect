@@ -10,7 +10,7 @@
 > [sentiment-classification-dataset-bundle on Hugging Face](https://huggingface.co/datasets/NatLee/sentiment-classification-dataset-bundle).
 > This repository stays online, read-only, for reference.
 
-![](./doc/model.png)
+![](./docs/images/model.png)
 
 GURA, short for GRU Unit for Recognizing Affect, is a simply sentiment classification model that leverages the power of `Bidirectional GRU` and `Self-attention` mechanisms.
 
@@ -127,27 +127,27 @@ When you successfully train the model with specified dataset, you cat get the pl
 
 - Anime
 
-    ![](./doc/model-anime.png)
+    ![](./docs/images/model-anime.png)
 
 - IMDB
 
-    ![](./doc/model-imdb.png)
+    ![](./docs/images/model-imdb.png)
 
 - MPQA
 
-    ![](./doc/model-mpqa.png)
+    ![](./docs/images/model-mpqa.png)
 
 - MR
 
-    ![](./doc/model-mr.png)
+    ![](./docs/images/model-mr.png)
 
 - SST2
 
-    ![](./doc/model-sst2.png)
+    ![](./docs/images/model-sst2.png)
 
 - SUBJ
 
-    ![](./doc/model-subj.png)
+    ![](./docs/images/model-subj.png)
 
 
 ## Spec with the Training Machine
